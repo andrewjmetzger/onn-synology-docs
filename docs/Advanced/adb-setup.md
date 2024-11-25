@@ -1,7 +1,3 @@
----
-sidebar_position: 99
----
-
 # ADB setup
 
 1. Connect the Onn box to a PC and a screen
