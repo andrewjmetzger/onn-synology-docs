@@ -1,3 +1,7 @@
+---
+unlisted: true
+---
+
 # ADB setup
 
 1. Connect the Onn box to a PC and a screen
