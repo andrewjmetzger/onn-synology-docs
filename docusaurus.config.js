@@ -69,12 +69,12 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Help',
-          },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Help',
+          // },
           // {
           //   href: 'https://github.com/andrewjmetzger/onn-tv-debloat',
           //   label: 'GitHub',
