@@ -2,9 +2,10 @@
 unlisted: true
 ---
 
-# 
 
-# ADB setup
+# Debloating Google TV
+
+## ADB setup
 
 1. Connect the Onn box to a PC and a screen.
 2. Complete the initial setup "On this TV" with a dummy user account. 
@@ -16,7 +17,7 @@ unlisted: true
 
 ## Useful Tweaks
 
-# Disable "Play Protect"
+### Disable "Play Protect"
 
 ```shell
 adb shell settings put global package_verifier_user_consent -1
